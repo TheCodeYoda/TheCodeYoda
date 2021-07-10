@@ -5,7 +5,7 @@ Currently pursuing my B.Tech in computer science & engineering @PES University, 
 
 I am passionate about systems & core computing, performance engineering,binary exploitaion and software development.
 
-- 🔭 I’m currently working on ... Coptimizer: an automated tool for optimization of C code, Mitosis simulation and Key Logging.
+- 🔭 I’m currently working on ... Coptimizer: an automated tool for optimization of C code, Mitosis simulation,2D physics engine and Key Logging.
 - 🌱 I’m currently learning ... ```Rust```, ```OpenGL```
 - ⚡ Fun fact: ... I am seasoned gamer (CSGO) 😄 
 
@@ -15,13 +15,13 @@ I am passionate about systems & core computing, performance engineering,binary e
 ### Languages, Tools and Frameworks
 
 
-<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/rust.png" />
-<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/cpp.png" />
+<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
+<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
-<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/emacs/emacs.png" />
+<img align="left" alt="Emacs" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/emacs/emacs.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
 
 <!--
