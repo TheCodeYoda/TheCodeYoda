@@ -7,7 +7,7 @@ I am passionate about ```Competitive Coding```,```systems & core computing```, `
 
 - 🔭 I’m currently working on ... Coptimizer: an automated tool for optimization of C code, Mitosis simulation,2D physics engine and Key Logging.
 - 🌱 I’m currently learning ... ```Rust```, ```OpenGL```
-- ⚡ Fun fact: ... I am seasoned gamer (CSGO) 😄 
+- ⚡ Fun fact: ... I am a seasoned gamer (CSGO) 😄 
 
 
 ![TheCodeYoda's GitHub](https://github-readme-stats.vercel.app/api?username=TheCodeYoda&count_private=true&show_icons=true&theme=radical)
