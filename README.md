@@ -24,6 +24,8 @@ I am passionate about ```Competitive Coding```,```systems & core computing```, `
 <img align="left" alt="Emacs" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/emacs/emacs.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodeYoda&layout=compact&hide=javascript,html,css,php&theme=radical)
+
 <!--
 **sriram1999s/sriram1999s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
