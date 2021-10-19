@@ -5,7 +5,7 @@ Currently pursuing my B.Tech in computer science & engineering @PES University, 
 
 I am passionate about ```Competitive Coding```,```systems & core computing```, ```performance engineering```,```binary exploitaion``` and ```software development```.
 
-- 🔭 I’m currently working on ... Coptimizer: an automated tool for optimization of C code, Mitosis simulation,2D physics engine and Key Logging.
+- 🔭 I’m currently working on ... Coptimizer: an automated tool for optimization of C code, 2D physics engine and Blockchain projects.
 - 🌱 I’m currently learning ... ```Rust```, ```OpenGL```
 - ⚡ Fun fact: ... I am a seasoned gamer (CSGO) 😄 
 
