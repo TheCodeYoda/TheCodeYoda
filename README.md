@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hi!
 ### I'm Aditya Bennur
 
 Just an engineer passionate about solving real world problems. Currently working on enhancing **Build Pipelines** using ```Kubernetes```, ```Docker``` and ```Github-Actions```. Trying to constructively 'Build' tools for the trade. 
