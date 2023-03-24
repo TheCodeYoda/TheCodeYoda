@@ -1,7 +1,7 @@
 ### Hi!
 ### I'm Aditya Bennur
 
-Just an engineer passionate about solving real world problems. Currently working on enhancing **Build Pipelines** using ```Kubernetes```, ```Docker``` and ```Github-Actions```. Trying to constructively 'Build' tools for the trade. 
+Just an engineer passionate about solving real world problems. Trying to constructively 'Build' tools for the trade. 
 
 
 ![TheCodeYoda's GitHub](https://github-readme-stats.vercel.app/api?username=TheCodeYoda&count_private=true&show_icons=true&theme=radical)
